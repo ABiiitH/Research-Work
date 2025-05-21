@@ -1,5 +1,5 @@
 # Research work 
-Till now i have take methylation and expression data from Metabric cohort and tried to compute cross correltation between them to see of hypermethylation affects the downstream gene expression. 
+Till now i have take methylation and expression data from Metabric cohort and tried to compute cross correlation between them to see how hypermethylation affects the downstream gene expression. 
 
 ## Hypothesis
 
